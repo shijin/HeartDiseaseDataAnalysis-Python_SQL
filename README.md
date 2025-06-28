@@ -32,15 +32,15 @@ MySQL
 
 ## Key Steps Performed
 
-1. **Data Cleaning**: Checked for missing values, identified outliers (e.g., cholesterol = 0)
+**1. Data Cleaning**: Checked for missing values, identified outliers (e.g., cholesterol = 0)
 
-2. **Exploratory Analysis**:
+**2. Exploratory Analysis**:
 
       Distribution of age, cholesterol, heart rate
 
       Countplots of categorical features like chest pain, fasting blood sugar
 
-3. **Correlation Analysis**:
+**3. Correlation Analysis**:
 
       Correlation matrix to identify strongest predictors
 
@@ -48,7 +48,7 @@ MySQL
 
       Max heart rate and cholesterol showed a negative correlation
 
-4. **Insights & Conclusion**: Summarized key medical trends and analytical outcomes
+**4. Insights & Conclusion**: Summarized key medical trends and analytical outcomes
 
 ## Repository Contents
 
@@ -87,7 +87,7 @@ This project was built using Jupyter Notebook and is compatible with Google Cola
 3. Alternatively, replace the `read_csv()` line with a GitHub raw link:
 ```python
 df = pd.read_csv('https://raw.githubusercontent.com/shijin/HeartDiseaseDataAnalysis-Python_SQL/main/heart.csv')
-
+```
 4. Repeat the same while executing Age Group vs. Blood Pressure categorization code by uploading the file `AgeGroupBPCategorization.csv`.
 
 ## Key Learnings
