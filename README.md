@@ -36,17 +36,17 @@ MySQL
 
 **2. Exploratory Analysis**:
 
-      Distribution of age, cholesterol, heart rate
+Distribution of age, cholesterol, heart rate
 
-      Countplots of categorical features like chest pain, fasting blood sugar
+Countplots of categorical features like chest pain, fasting blood sugar
 
 **3. Correlation Analysis**:
 
-      Correlation matrix to identify strongest predictors
+Correlation matrix to identify strongest predictors
 
-      Observed that oldpeak and fasting blood sugar positively correlate with heart disease
+Observed that oldpeak and fasting blood sugar positively correlate with heart disease
 
-      Max heart rate and cholesterol showed a negative correlation
+Max heart rate and cholesterol showed a negative correlation
 
 **4. Insights & Conclusion**: Summarized key medical trends and analytical outcomes
 
