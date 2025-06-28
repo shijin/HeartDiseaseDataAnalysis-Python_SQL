@@ -8,11 +8,11 @@ To analyze health-related data to identify significant patterns and correlations
 
 ## Dataset Overview
 
-Source: Kaggle (UCI Heart Disease dataset)
+- Source: Kaggle (UCI Heart Disease dataset)
 
-Records: 918
+-  Records: 918
 
-Features: Age, cholesterol, chest pain type, blood pressure, fasting blood sugar, thalassemia, etc.
+- Features: Age, cholesterol, chest pain type, blood pressure, fasting blood sugar, thalassemia, etc.
 
 ## Tools and Libraries
 
