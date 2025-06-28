@@ -16,19 +16,19 @@ To analyze health-related data to identify significant patterns and correlations
 
 ## Tools and Libraries
 
-Python 3
+- Python 3
 
-Pandas
+- Pandas
 
-Numpy
+- Numpy
 
-Seaborn
+- Seaborn
 
-Matplotlib
+- Matplotlib
 
-Jupyter Notebook
+- Jupyter Notebook
 
-MySQL
+- MySQL
 
 ## Key Steps Performed
 
@@ -36,17 +36,17 @@ MySQL
 
 **2. Exploratory Analysis**:
 
-Distribution of age, cholesterol, heart rate
+- Distribution of age, cholesterol, heart rate
 
-Countplots of categorical features like chest pain, fasting blood sugar
+- Countplots of categorical features like chest pain, fasting blood sugar
 
 **3. Correlation Analysis**:
 
-Correlation matrix to identify strongest predictors
+- Correlation matrix to identify strongest predictors
 
-Observed that oldpeak and fasting blood sugar positively correlate with heart disease
+- Observed that oldpeak and fasting blood sugar positively correlate with heart disease
 
-Max heart rate and cholesterol showed a negative correlation
+- Max heart rate and cholesterol showed a negative correlation
 
 **4. Insights & Conclusion**: Summarized key medical trends and analytical outcomes
 
@@ -54,17 +54,17 @@ Max heart rate and cholesterol showed a negative correlation
 
 ### File - Description
 
-HeartDisease_ExploratingDataAnalysis.ipynb - Final Jupyter notebook with markdown explanations and Python code
+- HeartDisease_ExploratingDataAnalysis.ipynb - Final Jupyter notebook with markdown explanations and Python code
 
-Project Report.pdf - A compiled, clean report summarizing findings and visuals
+- Project Report.pdf - A compiled, clean report summarizing findings and visuals
 
-ScopeOfWork.docx - Detailed write-up of project goals and dataset relevance
+- ScopeOfWork.docx - Detailed write-up of project goals and dataset relevance
 
-requirements.txt - List of Python packages used
+- requirements.txt - List of Python packages used
 
 ## How to Run This Notebook
 
-You can run the notebook directly in Google Colab:
+- You can run the notebook directly in Google Colab:
 
 Or clone the repo and run locally:
 
@@ -73,7 +73,7 @@ jupyter notebook
 
 ### Running the Notebook
 
-This project was built using Jupyter Notebook and is compatible with Google Colab.
+- This project was built using Jupyter Notebook and is compatible with Google Colab.
 
 ### To Run on Google Colab:
 1. Open this notebook in Colab:  
@@ -92,15 +92,15 @@ df = pd.read_csv('https://raw.githubusercontent.com/shijin/HeartDiseaseDataAnaly
 
 ## Key Learnings
 
-Importance of clean and focused data exploration
+- Importance of clean and focused data exploration
 
-Identifying and handling outliers
+- Identifying and handling outliers
 
-Visualizing health data for public understanding
+- Visualizing health data for public understanding
 
-Communicating clear, actionable insights from raw datasets
+- Communicating clear, actionable insights from raw datasets
 
 ## Author
 
-Shijin Ramesh
-LinkedIn: linkedin.com/in/shijinramesh
+- Shijin Ramesh
+  LinkedIn: linkedin.com/in/shijinramesh
