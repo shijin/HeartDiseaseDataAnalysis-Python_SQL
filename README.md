@@ -103,4 +103,4 @@ df = pd.read_csv('https://raw.githubusercontent.com/shijin/HeartDiseaseDataAnaly
 ## Author
 
 - Shijin Ramesh
-  LinkedIn: linkedin.com/in/shijinramesh
+- LinkedIn: linkedin.com/in/shijinramesh
