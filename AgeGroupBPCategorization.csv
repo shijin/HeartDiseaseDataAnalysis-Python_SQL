@@ -1,0 +1,28 @@
+Age_Group,BP_Category,Total
+18-29,Elevated,1
+18-29,"High BP Stage 1",2
+18-29,"High BP Stage 2",1
+30-39,Elevated,22
+30-39,"High BP Stage 1",14
+30-39,"High BP Stage 2",12
+30-39,"Hypertensive Crisis",1
+30-39,Normal,27
+40-49,Elevated,52
+40-49,"High BP Stage 1",51
+40-49,"High BP Stage 2",51
+40-49,"Hypertensive Crisis",2
+40-49,Normal,55
+50-59,Elevated,99
+50-59,"High BP Stage 1",93
+50-59,"High BP Stage 2",124
+50-59,"Hypertensive Crisis",10
+50-59,Normal,48
+60-69,Elevated,36
+60-69,"High BP Stage 1",52
+60-69,"High BP Stage 2",100
+60-69,"Hypertensive Crisis",7
+60-69,Normal,27
+70+,Elevated,4
+70+,"High BP Stage 1",4
+70+,"High BP Stage 2",19
+70+,Normal,4
