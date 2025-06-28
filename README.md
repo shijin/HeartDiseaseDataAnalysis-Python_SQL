@@ -71,6 +71,25 @@ Or clone the repo and run locally:
 pip install -r requirements.txt
 jupyter notebook
 
+### Running the Notebook
+
+This project was built using Jupyter Notebook and is compatible with Google Colab.
+
+### To Run on Google Colab:
+1. Open this notebook in Colab:  
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shijin/HeartDiseaseDataAnalysis-Python_SQL/blob/main/HeartDisease_ExploratoryDataAnalysis.ipynb)
+
+2. Upload the dataset manually:  
+   - Click the file icon (left sidebar in Colab)
+   - Click **Upload**, then select `heart.csv`  
+   *(or run the cell `from google.colab import files` to upload interactively)*
+
+3. Alternatively, replace the `read_csv()` line with a GitHub raw link:
+```python
+df = pd.read_csv('https://raw.githubusercontent.com/shijin/HeartDiseaseDataAnalysis-Python_SQL/main/heart.csv')
+
+4. Repeat the same while executing Age Group vs. Blood Pressure categorization code by uploading the file `AgeGroupBPCategorization.csv`.
+
 ## Key Learnings
 
 Importance of clean and focused data exploration
